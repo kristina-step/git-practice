@@ -1,5 +1,5 @@
-#Лабораторная работа №5
-##Создание и клонирование репозитория
+# Лабораторная работа №5
+## Создание и клонирование репозитория
 Для выполнения 5 лабораторной работы я для начала создала новый репозиторий "git-practice"
 создала текстовый файл example.txt и добавила его в этот репозиторий:
 ![image](https://github.com/kristina-step/git-practice/assets/157066665/68679cc3-347f-4d41-9fde-917a40e00139)
@@ -21,7 +21,7 @@ git checkout feature-branch
 ![image](https://github.com/kristina-step/git-practice/assets/157066665/eee6bf36-537b-40c7-8e6a-cf6fe965478e)
 ![image](https://github.com/kristina-step/git-practice/assets/157066665/c26e60cc-89ab-40e1-8983-a4bb299bae5d)
 
-##Работа с удаленным репозиторием
+## Работа с удаленным репозиторием
 Для выполнения этой части лабораторной работы переключились на ветку main, затем внесли изменения в файл
 ![image](https://github.com/kristina-step/git-practice/assets/157066665/e5266efe-3819-47dd-af25-fa5e40262118)
 
@@ -29,14 +29,14 @@ git checkout feature-branch
 ![image](https://github.com/kristina-step/git-practice/assets/157066665/0b7b43bc-0e62-4265-aaf9-c240515c5f35)
 
 
-##Моделирование конфликта
+## Моделирование конфликта
 В этом разделе мы внесли изменения в файл book.txt
 ![image](https://github.com/kristina-step/git-practice/assets/157066665/00d6a5c8-7bbf-44c4-ac44-d3d3d7846ca4)
 
 А затем добавилили их в ветку feature-login
 ![image](https://github.com/kristina-step/git-practice/assets/157066665/0b2ac113-30d1-49cd-b527-6144f452ac8a)
 
-##Разрешение конфликта
+## Разрешение конфликта
 Переключились на ветку main, после попытки слияния двух веток произошел конфликт:
 ![image](https://github.com/kristina-step/git-practice/assets/157066665/aaf98c44-dc13-468a-88ff-d08b4a9d2e1d)
 ![image](https://github.com/kristina-step/git-practice/assets/157066665/23bc3f56-7694-4b9c-90a3-61da12163e02)
