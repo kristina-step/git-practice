@@ -96,3 +96,12 @@ fi
 После внедрения написанной нами функции посмотрим на ее работоспособность
 ![image](https://github.com/kristina-step/git-practice/assets/157066665/a4d02293-bae2-43e7-977c-a87e1be93ea7)
 
+![image](https://github.com/kristina-step/git-practice/assets/157066665/eaffb5b7-58c1-442c-8694-54fab571e349)
+Все работает как надо
+
+## Использование Git Flow в проекте
+Для начала установили сам git flow
+![image](https://github.com/kristina-step/git-practice/assets/157066665/e5c31afd-0b2e-4cc8-a25a-c55d3e80e7d0)
+![image](https://github.com/kristina-step/git-practice/assets/157066665/1c17de59-8c40-48d8-abb8-0cf1c99fbfcc)
+Используя его и предложенный код, я создала функциональность task-management и доюавила в нее предложенный код task_manager.py. В интерактивном окне vi я добавила актуальное сообщение коммита с помощью i (insert), затем нажала escape и написал :wq (write & quit). Окно vi закрылось, и feature был корректно присоединен к ветке develop, которую создала git flow.
+![image](https://github.com/kristina-step/git-practice/assets/157066665/552da2af-96ed-4690-8b51-d5d3e00111f3)
