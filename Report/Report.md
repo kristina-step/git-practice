@@ -105,3 +105,6 @@ fi
 ![image](https://github.com/kristina-step/git-practice/assets/157066665/1c17de59-8c40-48d8-abb8-0cf1c99fbfcc)
 Используя его и предложенный код, я создала функциональность task-management и доюавила в нее предложенный код task_manager.py. В интерактивном окне vi я добавила актуальное сообщение коммита с помощью i (insert), затем нажала escape и написал :wq (write & quit). Окно vi закрылось, и feature был корректно присоединен к ветке develop, которую создала git flow.
 ![image](https://github.com/kristina-step/git-practice/assets/157066665/552da2af-96ed-4690-8b51-d5d3e00111f3)
+![image](https://github.com/kristina-step/git-practice/assets/157066665/e2721e0d-60eb-48f8-a292-3c1e5c5e87e4)
+![image](https://github.com/kristina-step/git-practice/assets/157066665/38ae32f9-2632-48a0-89a2-9934ecd3b423)
+в результате Завершили релиз и объединили его с ветками "feature-branch" и "main"
